@@ -1,8 +1,6 @@
-title: Minimal theme
+title: Machine Learning Portfolios
 logo: /assets/pexels-google-deepmind-17483848.jpg
-description: 
-<br>   
-  I'm working on Machine learning problems.
-<br>
-</p>
+description:  I'm working on Machine learning problems.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
