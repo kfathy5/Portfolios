@@ -1,6 +1,5 @@
 title: Machine Learning Portfolios
 logo: /assets/pexels-google-deepmind-17483848.jpg
 description:  I'm working on Machine learning problems.
-show_downloads: true
-google_analytics:
+show_downloads: false
 theme: jekyll-theme-minimal
